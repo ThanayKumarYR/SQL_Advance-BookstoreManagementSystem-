@@ -1,0 +1,7 @@
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\bin\Debug\BookstoreManagementSystem.exe.config
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\bin\Debug\BookstoreManagementSystem.exe
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\bin\Debug\BookstoreManagementSystem.pdb
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\obj\Debug\BookstoreManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\obj\Debug\BookstoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\obj\Debug\BookstoreManagementSystem.exe
+C:\Users\Thanay\source\repos\BookstoreManagementSystem\BookstoreManagementSystem\obj\Debug\BookstoreManagementSystem.pdb
